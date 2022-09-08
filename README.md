@@ -1,1 +1,1 @@
-# Data_Science_analytics-Predicting_Credit_card
+# Data_Science_analytics-Predicting_Credit_card_Approvals
